@@ -10,5 +10,5 @@ My thanks to https://stackoverflow.com/users/13086781/gp-adhikari who assisted g
 **********************************
 Issues
 ***********************************
-1) Current issue: Code returns databae data enclosed in a square bracket pair. this causes the json parser called by dbase1.js code to crash.
+1) Current issue: Code returns databae data enclosed in a square bracket pair. this causes the json parser called by dbase1.js code to throw an error.
    This is currently un resolved (14/10/24).
